@@ -1,0 +1,13 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.btn-info{
+	float: right;
+	margin-right: 10px;
+}
+
+.btn-danger{
+	float: right;
+}
